@@ -18,6 +18,10 @@ Run the below command for inference.
 sh All-Backbones-VLAD_bl.sh 
 ```
 snsm aggregator is activated by default. Please provide appropriate arguments in the bash file regarding the choice of aggregator. The available aggregators include VLAD, VLAD-API, GeM, GAP, GMP, and SNSM. More information about these is available in the main function in All-Backbones-VLAD_bl.py.  
+
+## Hugging face demo
+https://huggingface.co/spaces/AnuVPR/SNSM
+
 ## Bibtex
 Please use the below BibTeX to cite if you use the code.
 ```
